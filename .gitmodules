@@ -1,0 +1,6 @@
+[submodule "GitTestChildren01"]
+	path = GitTestChildren01
+	url = https://github.com/barmaguro/GitTestChildren01.git
+[submodule "GitTestChildren02"]
+	path = GitTestChildren02
+	url = https://github.com/barmaguro/GitTestChildren02.git
